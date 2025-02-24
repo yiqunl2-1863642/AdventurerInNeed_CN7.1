@@ -1,5 +1,5 @@
 # AdventurerInNeed_CN7.1
-# Unofficial Tempo Fix for [AdventurerInNeed]
+# Unofficial Tempo Fix for [AdventurerInNeed](https://github.com/Caraxi/AdventurerInNeed/tree/master)
 
 This repository provides an **unofficial fix** for CN 7.1, originally created by **[Caraxi](https://github.com/Caraxi)**. For the official release, please wait for the official cn dalamud demo to update.
 
